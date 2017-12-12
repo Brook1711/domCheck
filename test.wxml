@@ -1,0 +1,5 @@
+<!-- This is our View -->
+<view> Hello {{name}}! </view>
+<button bindtap="changeName"> Click me! </button>
+<button bindtap="getDataFromOneNet">Click to find if sb has come</button>
+<view>{{doorData}}</view>
